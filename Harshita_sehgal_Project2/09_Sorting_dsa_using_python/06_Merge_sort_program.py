@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 # Merge sort program
 def merge_sort(listl1):
     if len(listl1)>1:
